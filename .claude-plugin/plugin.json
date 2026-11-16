@@ -1,10 +1,23 @@
+
 {
-  "name": "youtube-agent",
-  "description": "Vedhasri AI Studio: A collection of YouTube content creation and AI storytelling skills for planning, scripts, character design, image and video prompts, narration, thumbnails, SEO, social media, and project management.",
+  "name": "vedhasri-ai-agents",
+  "description": "Vedhasri AI Agents: YouTube content creation, AI storytelling, character design, image and video prompts, narration, thumbnails, SEO, social media, and project management.",
   "version": "1.0.0",
-  "author": { "name": "Jake Schincariol", "url": "https://opusjake.ai" },
-  "homepage": "https://github.com/Jakeschincariol/youtube-agent-skill",
-  "repository": "https://github.com/Jakeschincariol/youtube-agent-skill",
+  "author": {
+    "name": "Jake Schincariol",
+    "url": "https://opusjake.ai"
+  },
+  "homepage": "https://github.com/vedhasrisandhaka/Vedha-AI-Agents",
+  "repository": "https://github.com/vedhasrisandhaka/Vedha-AI-Agents",
   "license": "MIT",
-  "keywords": ["youtube", "shorts", "retention", "thumbnails", "titles", "content", "video", "seo"]
+  "keywords": [
+    "youtube",
+    "ai-agents",
+    "storytelling",
+    "video",
+    "animation",
+    "content-creation",
+    "seo",
+    "social-media"
+  ]
 }
