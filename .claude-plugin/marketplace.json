@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "youtube-agent",
+      "name": "vedhasri-ai-agents",
       "description": "A collection of YouTube and AI content creation skills by Vedhasri AI Agents.",
       "source": "./",
       "category": "productivity",
